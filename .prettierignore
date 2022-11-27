@@ -1,0 +1,10 @@
+node_modules/
+coverage/
+dist/
+.vscode/
+yarn.lock
+.prettierignore
+.DS_Store
+.editorconfig
+.eslintignore
+package.json
