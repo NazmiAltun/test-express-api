@@ -16,11 +16,11 @@ jobs:
         id: meta
         uses: docker/metadata-action@v4
         with:
-          images: |
-            nazmialtun/test-express-api
+          images: ghcr.io/nazmialtun/test-express-api
           tags: |
             type=ref,event=branch
             type=ref,event=pr
+            type=raw,value=latest,enable=${{ github.ref == format('refs/heads/{0}', 'master') }}
             type=semver,pattern={{version}}
             type=semver,pattern={{major}}.{{minor}}
       - name: Login to GitHub Container Registry
