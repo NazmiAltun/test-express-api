@@ -35,5 +35,5 @@ jobs:
           push: true
           tags: ${{ steps.meta.outputs.tags }}
           labels: ${{ steps.meta.outputs.labels }}
-          cache-from: type=registry,ref=ghcr.io/nazmialtun/test-express-api-cache:latest
-          cache-to: type=registry,ref=ghcr.io/nazmialtun/test-express-api-cache:latest,mode=max
+          cache-from: type=gha
+          cache-to: type=gha,mode=max
