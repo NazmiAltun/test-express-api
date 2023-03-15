@@ -1473,9 +1473,9 @@ date-fns@^2.29.1:
   integrity sha512-dDCnyH2WnnKusqvZZ6+jA1O51Ibt8ZMRNkDZdyAyK4YfbDwa/cEmuztzG5pk6hqlp9aSBPYcjOlktquahGwGeA==
 
 dayjs@^1.11.3:
-  version "1.11.6"
-  resolved "https://registry.yarnpkg.com/dayjs/-/dayjs-1.11.6.tgz#2e79a226314ec3ec904e3ee1dd5a4f5e5b1c7afb"
-  integrity sha512-zZbY5giJAinCG+7AGaw0wIhNZ6J8AhWuSXKvuc1KAyMiRsvGQWqh4L+MomvhdAYjN+lqvVCMq1I41e3YHvXkyQ==
+  version "1.11.7"
+  resolved "https://registry.yarnpkg.com/dayjs/-/dayjs-1.11.7.tgz#4b296922642f70999544d1144a2c25730fce63e2"
+  integrity sha512-+Yw9U6YO5TQohxLcIkrXBeY73WP3ejHWVvx8XCk3gxvQDCTEmS48ZrSZCKciI7Bhl/uCMyxYtE9UqRILmFphkQ==
 
 debug@2.6.9, debug@^2.6.9:
   version "2.6.9"
@@ -1934,9 +1934,9 @@ expect@^29.0.0, expect@^29.3.1:
     jest-util "^29.3.1"
 
 express-actuator@^1.8.2:
-  version "1.8.2"
-  resolved "https://registry.yarnpkg.com/express-actuator/-/express-actuator-1.8.2.tgz#e8d9bc86c3e5539aa7899372332e7c25bf4083ff"
-  integrity sha512-lUinp8lijZJIcY9yxXHw16N38fVD93OzU5ozSTFRTgbYWiGzfX+25QzbVMi3z2uvCV79IZ5QHCK29nI6BhjMdA==
+  version "1.8.4"
+  resolved "https://registry.yarnpkg.com/express-actuator/-/express-actuator-1.8.4.tgz#4be0c469aefbd288a7916f7f1a86674961525083"
+  integrity sha512-V0VbfdnxYTp2IPIDh78LVoxShW0CL83rbLQ/BtFansamEaX93DepIhy9v78zZysJoPvce8nmS3TumwYSV4XKiw==
   dependencies:
     dayjs "^1.11.3"
     properties-reader "^2.2.0"
