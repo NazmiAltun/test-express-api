@@ -732,9 +732,9 @@
   integrity sha512-t73xJJrvdTjXrn4jLS9VSGRbz0nUY3cl2DMGDU48lKl+HR9dbbjW2A9r3g40VA++mQpy6uuHg33gy7du2BKpog==
 
 "@types/express-actuator@^1.8.0":
-  version "1.8.0"
-  resolved "https://registry.yarnpkg.com/@types/express-actuator/-/express-actuator-1.8.0.tgz#d00f9eff61e627f790dd087891e41cd09574c0f4"
-  integrity sha512-dNjiuD7Xzd5lVkjJ7Gngq5Oak4lwNtdd/YTP6ozRxsf2Y9WXrNjW0+tVc8ZeSD20SKQQAO4l5Kt6vaFk6iqiVg==
+  version "1.8.1"
+  resolved "https://registry.yarnpkg.com/@types/express-actuator/-/express-actuator-1.8.1.tgz#335c4edc86666c6e45402e9473f0f070d3d28f2f"
+  integrity sha512-T/uSHYbpWrabzzUk+0ZHtos63JbFM7uX98BQDHvgkeAeHcmm/M8NyUSKHMAFMawpJiZF/u50oeI5cBLNVsXKwA==
   dependencies:
     "@types/express" "*"
 
