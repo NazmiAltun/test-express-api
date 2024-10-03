@@ -1,4 +1,4 @@
-FROM node:19-alpine as base
+FROM node:20-alpine as base
 LABEL description="Sample hello-world api in express/typescript"
 WORKDIR /usr/app
 COPY package*.json yarn.lock .env ./
